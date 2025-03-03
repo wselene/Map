@@ -12,7 +12,7 @@
             "type": "fill",
             "source":{
                 "type": "vector",
-                "url": "mapbox://selene-w.davidson"
+                "url": "mapbox://selene-w.multi"
             },
             "sourceLayer":"blocks"
         }
